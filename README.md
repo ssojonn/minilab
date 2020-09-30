@@ -6,7 +6,7 @@
 ## Clone this project
 
 ```shell
-git clone https://github.com/sojon-at-git/minilab.git
+git clone https://github.com/sojonatgithub/minilab.git
 ```
 
 ## License
